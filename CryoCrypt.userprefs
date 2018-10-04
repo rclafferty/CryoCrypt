@@ -1,0 +1,31 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\IntroScene1.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Controller.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GridMaster.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BlockFade.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Selector.cs" Line="75" Column="8" />
+      <File FileName="Assets\Scripts\MapCrypt.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TextTimeline.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TimeChange.cs" Line="59" Column="14" />
+      <File FileName="Assets\Scripts\CodeSet.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Region.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CryoSleep.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MapMaster.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Animate.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SceneChange.cs" Line="18" Column="28" />
+      <File FileName="Assets\Scripts\Play.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Music.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CodeSetSequence.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CryptSlide.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LabMaster.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\IntroScene1.cs" Line="76" Column="9" />
+      <File FileName="Assets\Scripts\TutorialDelete.cs" Line="19" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
